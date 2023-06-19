@@ -1,0 +1,16 @@
+ <style type="text/css">
+        h1{
+            color: darkgreen;
+
+        }
+        p{
+           color: darkred; 
+           width: 500px;
+           border: 1 px solid black;
+        }
+        li{
+           color: darkblue; 
+           width: 500px;
+           border: 1 px solid black;  
+        }
+    </style>
